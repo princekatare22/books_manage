@@ -1,14 +1,23 @@
 package main
 
-import "gofr.dev/pkg/gofr"
+import (
+	"books-manage/datastore"
+	"books-manage/handler"
+
+	"gofr.dev/pkg/gofr"
+)
 
 func main() {
-    app := gofr.New()
+	app := gofr.New()
 
-    app.GET("/greet", func(ctx *gofr.Context) (interface{}, error) {
+	s := datastore.New()
+	h := handler.New(s)
 
-        return "Hello World!", nil
-    })
+	app.GET("/books/{id}", h.GetByID)
+	app.POST("/books", h.Create)
+	app.PUT("/books/{id}", h.Update)
+	app.DELETE("/books/{id}", h.Delete)
 
-    app.Start()
+	app.Server.HTTP.Port = 9092
+	app.Start()
 }
