@@ -11,8 +11,9 @@
 <h2>Run the project using the following steps</h2>
 <ol>
 <li> Download the project in your local machine --> https://github.com/princekatare22/books_manage.git</li>
-<li> In the terminal, run command <b> go mod tidy </b>b></li>
-<li> Run the project using command <b> go run .\main.go </b>b></li> 
+<li> Update the DB_USER and DB_PASSWORD in configs\.env</li>
+<li> In the terminal, run command <b> go mod tidy </b></li>
+<li> Run the project using command <b> go run .\main.go </b></li> 
 </ol>
 
 <h2>Sequence Daigram</h2>
