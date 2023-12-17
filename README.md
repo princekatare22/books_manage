@@ -17,17 +17,18 @@
 </ol>
 
 <h2>Sequence Daigram</h2>
-<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/bf126fbd-366e-4f7d-8754-3bd88d521071">
+<img src = "https://github.com/princekatare22/books_manage/assets/75197980/e606a6fd-84e2-46a4-8d08-d52d5a824f02">
 
 <h2>Postman Collections</h2>
 <h3>Create()</h3>
-<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/9c7bbcc8-2f50-40b3-ba44-2a0c95d37ee4">
+<img src = https://github.com/princekatare22/books_manage/assets/75197980/900be348-e958-48d0-a3da-04183189e005">
 <h3>GetByID()</h3>
-<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/608a0d68-1a27-435e-8391-a1c7421f6380">
+<img src = "https://github.com/princekatare22/books_manage/assets/75197980/a8cfbb74-4ef5-4e0d-8b47-28f09602ed47">
 <h3>Update()</h3>
-<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/30bdb675-fe67-4f09-b8af-9e9655b17834">
+<img src = "https://github.com/princekatare22/books_manage/assets/75197980/98ec39c7-561d-4d97-8cd4-4f74d8c51e65">
 <h3>Delete()</h3>
-<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/1f63bb4d-6b49-4396-b799-9e53a944d4e1">
+<img src = "https://github.com/princekatare22/books_manage/assets/75197980/bb5fe54e-0843-43bb-8071-be917316747e:>
+
 
 
 
