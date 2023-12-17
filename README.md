@@ -27,7 +27,7 @@
 <h3>Update()</h3>
 <img src = "https://github.com/princekatare22/books_manage/assets/75197980/98ec39c7-561d-4d97-8cd4-4f74d8c51e65">
 <h3>Delete()</h3>
-<img src = "https://github.com/princekatare22/books_manage/assets/75197980/bb5fe54e-0843-43bb-8071-be917316747e:>
+<img src = "https://github.com/princekatare22/books_manage/assets/75197980/bb5fe54e-0843-43bb-8071-be917316747e">
 
 
 
